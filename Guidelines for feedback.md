@@ -12,7 +12,7 @@ IMAPS team replaced the term 'capabilities' with the term 'means' in items D5 an
 
 Which is more user-friendly? Do you have any suggestions? (Yes/No | Rationale)
 
-IMAPS team suggests to add an item related to the EIRA v3.1.0 ABB ‘Exchange of Business information’. Do you have any suggestions? (Yes/No | Rationale)
+IMAPS team suggests to add an item related to the EIRA v4.1.0 ABB ‘Exchange of Business information’. Do you have any suggestions? (Yes/No | Rationale)
 
 Note: The EIRA ABB ‘Exchange of Business information’is the business capability on exchanging data, information, and Knowledge. More Info: https://joinup.ec.europa.eu/taxonomy/term/http_e_f_fdata_ceuropa_ceu_fdr8_fExchangeOfBusinessInformation
 
