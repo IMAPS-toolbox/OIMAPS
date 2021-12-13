@@ -10,6 +10,6 @@ OIMAPS serves complementary to the IMAPS survey and its use is recommended in co
 
 On completion of the survey, the public service owners receive tailored feedback and recommendations on how to further improve their service in terms of organisational interoperability.
 
-You may check and test the current Beta version of OIMAPS (OIMAPS v1.0.0) at the EU survey portal:https://ec.europa.eu/eusurvey/runner/OIMAPS_v_1_0_0.
+You may check and test the current version of OIMAPS (OIMAPS v1.0.0) at the EU survey portal:https://ec.europa.eu/eusurvey/runner/SIMAPS_v_1_0_0.
 
 For more information, please visit the OIMAPS Joinup page here: https://joinup.ec.europa.eu/collection/imaps-interoperability-maturity-assessment-public-service/solution/oimaps/about. 
